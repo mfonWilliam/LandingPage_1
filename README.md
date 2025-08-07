@@ -1,1 +1,1 @@
-"# LandingPage_1" 
+desktop and mobile view(375px) of this webpage
